@@ -13,8 +13,8 @@
     "@aws-amplify/ui-react": "^6.15.1",
     "@aws-sdk/client-bedrock-runtime": "^3.1000.0",
     "aws-amplify": "^6.16.2",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@aws-amplify/backend": "^1.21.0",
